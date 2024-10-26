@@ -23,7 +23,7 @@ Scalable Vector Graphics (SVG) is an XML-based vector image format for two-dimen
 
 ## Features
 
-- [x] **Support for send styles attrbutes by Query parameters**.
+- [x] **Support for send styles attributes by Query parameters**.
 
 ## Installation
 
