@@ -1,16 +1,16 @@
 {
   "name": "svgxjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "svgxjs": "bin/svgx"
+    "svgxjs": "index.js"
   },
   "keywords": ["svg", "svgx", "svgxjs"],
   "author": "qcmarcel",
   "license": "ISC",
-  "description": "SVGX v1.0.1\n\nadd bin in package json"
+  "description": "SVGX v1.0.2\n\nadd bin in package json -> index.js"
 }
