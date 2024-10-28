@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import {_process, ioFile, script} from "./lib/svgx/main.js";
 
 const [_,__,base,...pattern]=process.argv
