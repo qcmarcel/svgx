@@ -1,6 +1,6 @@
 {
   "name": "svgxjs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,5 @@
   "keywords": ["svg", "svgx", "svgxjs"],
   "author": "qcmarcel",
   "license": "ISC",
-  "description": "SVGX v1.0.3\n\nadd bin in package json -> node index.js"
+  "description": "SVGX v1.0.4\n\nremove debug logs"
 }
