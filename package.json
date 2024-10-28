@@ -12,5 +12,5 @@
   "keywords": ["svg", "svgx", "svgxjs"],
   "author": "qcmarcel",
   "license": "ISC",
-  "description": "SVGX v1.0.23\n\nadd bin in package json -> node index.js"
+  "description": "SVGX v1.0.3\n\nadd bin in package json -> node index.js"
 }
